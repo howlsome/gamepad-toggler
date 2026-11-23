@@ -7,8 +7,8 @@
 ## IconTexture: Interface\Icons\INV_Misc_Gear_01
 ## SavedVariables: GamePadTogglerDB
 ## X-License: MIT
-## X-Wago-ID: WAGO_ID
-## X-Curse-Project-ID: CURSEFORGE_ID
+## X-Wago-ID: EGPar4N1
+## X-Curse-Project-ID: 1826318
 
 GamePadToggler.lua
 Options.lua
