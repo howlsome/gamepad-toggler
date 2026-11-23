@@ -1,0 +1,10 @@
+package-as: GamePadToggler
+
+ignore:
+  - README.md
+  - .github
+  - .gitignore
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

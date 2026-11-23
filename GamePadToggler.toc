@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: GamePad Toggler
+## Notes: Turn the Gamepad UI on or off per character, with an options panel listing all your characters.
+## Author: Howl
+## Version: @project-version@
+## Category: Interface Enhancements
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+## SavedVariables: GamePadTogglerDB
+## X-License: MIT
+## X-Wago-ID: WAGO_ID
+## X-Curse-Project-ID: CURSEFORGE_ID
+
+GamePadToggler.lua
+Options.lua
